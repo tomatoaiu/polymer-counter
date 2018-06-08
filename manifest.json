@@ -1,0 +1,6 @@
+{
+  "name": "polymer-counter",
+  "short_name": "polymer-counter",
+  "start_url": "/",
+  "display": "standalone"
+}
